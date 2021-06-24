@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Debbie and I’m currently learning html, css, js and React.
 - 👀 I’m always learning and I love yoga, crafting and baking.
 - 📫 You can connect with me on Twitter @debbie_digital
-<br/>
+<br />
 
 ## Technologies I Use
 
@@ -31,7 +31,11 @@
 </table>
 <br>
 
-[![Debbie's github stats](https://github-readme-stats.vercel.app/api?username=hellodeborahuk)](https://github.com/hellodeborahuk/github-readme-stats)
+## My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellodeborahuk&theme=cobalt)](https://github.com/hellodeborahuk/github-readme-stats)
+
+[![Debbie's github stats](https://github-readme-stats.vercel.app/api?username=hellodeborahuk&theme=cobalt)](https://github.com/hellodeborahuk/github-readme-stats)
 
 
 <!---
