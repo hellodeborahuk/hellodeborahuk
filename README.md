@@ -1,8 +1,13 @@
-## About Me
+<h1 align="center">Hi, I'm Debbie ✨</h1>
 
-- 👋 Hi, I’m Debbie and I’m currently learning html, css, js and React.
-- 👀 I’m always learning and I love yoga, crafting and baking.
-- 📫 You can connect with me on Twitter @debbie_digital
+<h3 align="center">I'm an aspiring frontend developer living in the UK.</h3>
+
+<br />
+
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React.
+- 🧘🏻‍♀️ I love yoga, crafting and baking.
+- 📫 You can connect with me on Twitter **@debbie_digital**
+- ⭐ Find me on LinkedIn https://www.linkedin.com/in/debbiedann/
 <br />
 
 ## Technologies I Use
@@ -10,21 +15,25 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>HTML5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>JAVASCRIPT</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>REACT</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+            <td width="20%" align="center">
+        <span><strong>Figma</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
       </td>
     </tr>
     </tbody>
