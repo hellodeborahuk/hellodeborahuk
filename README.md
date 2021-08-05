@@ -12,28 +12,32 @@
 
 ## Technologies I Use
 
-<table>
+<table width="60%" >
   <tbody>
     <tr valign="top">
-      <td width="20%" align="center">
+      <td align="center">
         <span><strong>HTML5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="20%" align="center">
+      <td align="center">
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="20%" align="center">
-        <span><strong>JAVASCRIPT</strong></span><br><br><br>
+      <td align="center">
+        <span><strong>JavaScript</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="20%" align="center">
-        <span><strong>REACT</strong></span><br><br><br>
+      <td  align="center">
+        <span><strong>React</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
-            <td width="20%" align="center">
+            <td  align="center">
         <span><strong>Figma</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
+      </td>
+       <td align="center">
+        <span><strong>TailwindCSS</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
     </tr>
     </tbody>
