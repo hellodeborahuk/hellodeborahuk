@@ -6,8 +6,10 @@
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript and React.
 - 🧘🏻‍♀️ I love yoga, crafting and baking.
-- 📫 You can connect with me on Twitter [**@debbie_digital**](https://www.twitter.com/debbie_digital)
+- 👉 Currently working on a [notes app](https://github.com/hellodeborahuk/coding-notebook)
+- 📫 You can connect with me on Twitter [@debbie_digital](https://www.twitter.com/debbie_digital)
 - ⭐ Find me on LinkedIn https://www.linkedin.com/in/debbiedann/
+
 
 <br/>
 
@@ -34,6 +36,7 @@
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hellodeborahuk&theme=radical"/>
 </a>
 </p>
+
 
 <!---
 hellodeborahuk/hellodeborahuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
