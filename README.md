@@ -33,7 +33,7 @@
 |   2  |[Dosha quiz](https://github.com/hellodeborahuk/dosha-quiz)| HTML, CSS and React|
 |   3  |[Frontend Mentor challenges](https://github.com/hellodeborahuk/frontend-mentor-challenges)| HTML, CSS and JavaScript|
 |   4  |[Weather app](https://github.com/hellodeborahuk/react-weather-app)| HTML, CSS, React and API intergration |
-|   5  |[Dictionary](https://github.com/hellodeborahuk/dictionary-project)| HTML, CSS, React and API ingergration |
+|   5  |[Dictionary](https://github.com/hellodeborahuk/dictionary-project)| HTML, CSS, React and API intergration |
 |   6  |[JavaScript small projects](https://github.com/hellodeborahuk/javascript-work)| HTML, CSS and JavaScript  |
 
 ## My GitHub Stats
