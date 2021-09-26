@@ -25,7 +25,16 @@
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </p>
-
+  
+  ## Projects
+| Index | Project | Tech Used |
+|:------:|:-----------------:|:------:|
+|   1  |[Notes app](https://github.com/hellodeborahuk/coding-notebook)| HTML, TailwindCSS and React|
+|   2  |[Dosha quiz](https://github.com/hellodeborahuk/dosha-quiz)| HTML, CSS and React|
+|   3  |[Frontend Mentor challenges](https://github.com/hellodeborahuk/frontend-mentor-challenges)| HTML, CSS and JavaScript|
+|   4  |[Weather app](https://github.com/hellodeborahuk/react-weather-app)| HTML, CSS, React and API intergration |
+|   5  |[Dictionary](https://github.com/hellodeborahuk/dictionary-project)| HTML, CSS, React and API ingergration |
+|   6  |[JavaScript small projects](https://github.com/hellodeborahuk/javascript-work)| HTML, CSS and JavaScript  |
 
 ## My GitHub Stats
 
