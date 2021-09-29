@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Debbie ✨</h1>
 
-<h3 align="center">I'm an aspiring frontend developer living in the UK.</h3>
+<h3 align="center">I'm a frontend developer living in the UK.</h3>
 
 <br />
 
