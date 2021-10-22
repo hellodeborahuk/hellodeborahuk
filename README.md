@@ -10,9 +10,6 @@
 - 📫 You can connect with me on Twitter [@debbie_digital](https://www.twitter.com/debbie_digital)
 - ⭐ Find me on LinkedIn https://www.linkedin.com/in/debbiedann/
 
-
-
-
 ## Technologies I Use
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -33,9 +30,9 @@
 |   2  |[Dosha quiz](https://github.com/hellodeborahuk/dosha-quiz)| HTML, CSS and React|
 |   3  |[Frontend Mentor challenges](https://github.com/hellodeborahuk/frontend-mentor-challenges)| HTML, CSS and JavaScript|
 |   4  |[Weather app](https://github.com/hellodeborahuk/react-weather-app)| HTML, CSS, React and API intergration |
-|   5  |[Dictionary](https://github.com/hellodeborahuk/dictionary-project)| HTML, CSS, React and API intergration |
-|   6  |[JavaScript small projects](https://github.com/hellodeborahuk/javascript-work)| HTML, CSS and JavaScript  |
+|   5  |[JavaScript small projects](https://github.com/hellodeborahuk/javascript-work)| HTML, CSS and JavaScript  |
 
+    
 ## My GitHub Stats
 
 <p align="center">
