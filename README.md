@@ -18,8 +18,10 @@
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img alt="Github" src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img alt="Canva" src="https://img.shields.io/badge/Canva-0078d7.svg?style=for-the-badge&logo=canva&logoColor=white"/>
+<img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe premiere pro-%23F24E1E.svg?style=for-the-badge&logo=Adobe-premiere-pro&logoColor=white" />
   </p>
   
    ## Projects
