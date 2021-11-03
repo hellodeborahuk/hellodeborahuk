@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript and React.
 - 🧘🏻‍♀️ I love yoga, crafting and baking.
 - 👉 Currently working on a [notes app](https://github.com/hellodeborahuk/coding-notebook)
-- 📫 You can connect with me on Twitter [@debbie_digital](https://www.twitter.com/debbie_digital)
-- ⭐ Find me on LinkedIn https://www.linkedin.com/in/debbiedann/
+- 📫 You can connect with me on [Twitter](https://www.twitter.com/debbie_digital)
+- ⭐ Find me on [LinkedIn](https://www.linkedin.com/in/debbiedann)
 
 ## Technologies I Use
 <p align="center">
