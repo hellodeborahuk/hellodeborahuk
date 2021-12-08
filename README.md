@@ -67,6 +67,9 @@
 ## Recent articles on Hashnode
 
 <!-- BLOG-POST-LIST:START -->
+- [The Basics of Seasonal Color Theory](https://debbiedanndigital.hashnode.dev/the-basics-of-seasonal-color-theory)
+- [Six reasons why hiring part-timers is good for business](https://debbiedanndigital.hashnode.dev/six-reasons-why-hiring-part-timers-is-good-for-business)
+- [My Web Developer Journey So Far](https://debbiedanndigital.hashnode.dev/my-web-developer-journey-so-far)
 <!-- BLOG-POST-LIST:END -->
   
     
