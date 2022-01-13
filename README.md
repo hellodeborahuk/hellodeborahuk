@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Debbie ✨</h1>
 
-<h3 align="center">I'm a frontend developer living in the UK.</h3>
-
 <br />
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript and React.
@@ -73,15 +71,16 @@
 <!-- BLOG-POST-LIST:END -->
   
     
-## My GitHub Stats
-
+<details>
+	<summary> My GitHub Stats</summary>
+<br>
 <p align="center">
 <a href="https://github.com/hellodeborahuk">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hellodeborahuk&count_private=true&show_icons=true&theme=radical" />
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hellodeborahuk&theme=radical&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
 </a>
 </p>
-
+</details>
 
 <!---
 hellodeborahuk/hellodeborahuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
