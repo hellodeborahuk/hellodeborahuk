@@ -1,14 +1,9 @@
 <h1 align="center">Hi, I'm Debbie ✨</h1>
 
-<br />
-
-- 🌱 I’m currently learning HTML, CSS, JavaScript and React.
+- 🌱 I’m currently learning React.
 - 🧘🏻‍♀️ I love yoga, crafting and baking.
-- 👉 Currently working on a [notes app](https://github.com/hellodeborahuk/coding-notebook)
-- 📫 You can connect with me on [Twitter](https://www.twitter.com/debbie_digital)
-- ⭐ Find me on [LinkedIn](https://www.linkedin.com/in/debbiedann)
+- 📫 You can connect with me on [Twitter](https://www.twitter.com/debbie_digital) and [LinkedIn](https://www.linkedin.com/in/debbiedann).
 
-## Technologies I Use
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
