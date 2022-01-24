@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React.
 - 🧘🏻‍♀️ I love yoga, crafting and baking.
 - 📫 You can connect with me on [Twitter](https://www.twitter.com/debbie_digital) and [LinkedIn](https://www.linkedin.com/in/debbiedann).
+- 🧘 Currently working on a [yoga website](https://github.com/hellodeborahuk/yoga-site) with Next.js and Firebase.
 
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
