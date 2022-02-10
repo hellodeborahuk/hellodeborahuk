@@ -15,6 +15,7 @@
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img alt="Canva" src="https://img.shields.io/badge/Canva-0078d7.svg?style=for-the-badge&logo=canva&logoColor=white"/>
 <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe premiere pro-%23F24E1E.svg?style=for-the-badge&logo=Adobe-premiere-pro&logoColor=white" />
+<img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe after effects-%2338B2AC.svg?style=for-the-badge&logo=Adobe-after-effects&logoColor=white" />
   </p>
   
    ## Projects
