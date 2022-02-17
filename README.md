@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Debbie ✨</h1>
+<h1 align="center">Hi, I'm Debbie<img src="https://raw.githubusercontent.com/danndigital/debbie-portfolio-2021/28bef52c5fec2ddbbcd1462246f081213cec2582/public/images/sparkle.svg" width="35px" alt="sparkle" /></h1>
 
 - 💻 Currently working on [buzzphonics app](https://github.com/hellodeborahuk/phonics-sounds) using React.
 - 📝 I am currently learning Next.js and animation.
@@ -65,4 +65,5 @@ hellodeborahuk/hellodeborahuk is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+![wave](https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png)
 
