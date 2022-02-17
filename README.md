@@ -30,7 +30,7 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=hellodeborahuk&repo=yoga-site&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
 </a>
   <img width="400" src="https://user-images.githubusercontent.com/29425781/153005390-b948f7eb-4750-432e-b30a-9598e355b48e.png" />
-  <img width="400" src="https://user-images.githubusercontent.com/29425781/152994917-3ec80152-d238-4628-83e4-6800e5e6d463.png" />
+  <img width="400" src="https://github.com/hellodeborahuk/dosha-quiz/blob/main/public/dosha-quiz.png?raw=true" />
   <a href="https://github.com/hellodeborahuk/react-weather-app">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=hellodeborahuk&repo=react-weather-app&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
 </a>
