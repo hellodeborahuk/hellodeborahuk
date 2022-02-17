@@ -18,45 +18,26 @@
 <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe after effects-%2338B2AC.svg?style=for-the-badge&logo=Adobe-after-effects&logoColor=white" />
   </p>
   
-   ## Projects
-<table style="width:100%; border="0"">
-  <tr>
-	<th>Index</th>
-    <th>Project</th>    
-    <th>Tech Used</th>
-    <td rowspan="6"><img src="https://dann.digital/media/notes.png" width="100%"/></td>
-  </tr>
-  <tr>
-	<td>1</td>
-    <td><a href="https://github.com/hellodeborahuk/coding-notebook">Notes app</a></td>
-    <td>HTML, TailwindCSS and React
-</td>
-  </tr>
-  <tr>
-  <td>2</td>
-    <td><a href="https://github.com/hellodeborahuk/dosha-quiz">Dosha quiz</a></td>
-    <td>HTML, CSS and React
-</td>
-  </tr>
-    <tr>
- <td>3</td>
-    <td><a href="https://github.com/hellodeborahuk/frontend-mentor-challenges">Frontend Mentor challenges</a></td>
-    <td>HTML, CSS and JavaScript
-</td>
-  </tr>
-    <tr>
-    <td>4</td>
-      <td><a href="https://github.com/hellodeborahuk/react-weather-app">Weather app</a></td>
-    <td>HTML, CSS, React and API intergration
-</td>
-  </tr>
-    <tr>
-    <td>5</td>
-      <td><a href="https://github.com/hellodeborahuk/javascript-work">Small JavaScript projects</a></td>
-    <td>HTML, CSS and JavaScript
-</td>
-  </tr>
-</table>
+   ## My favourite projects
+   <br/>
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/29425781/153005126-053cd5c4-fed8-448c-8a02-6e32348e6b4b.png" />
+  <img width="400" src="https://user-images.githubusercontent.com/29425781/152995122-712315ad-9b4f-4c4a-b0d7-ab528af10790.png">
+    <a href="https://github.com/hellodeborahuk/coding-notebook">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=hellodeborahuk&repo=coding-notebook&theme=default_repocard" />
+</a>
+  <a href="https://github.com/hellodeborahuk/yoga-site">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=hellodeborahuk&repo=yoga-site&theme=default_repocard" />
+</a>
+  <img width="400" src="https://user-images.githubusercontent.com/29425781/153005390-b948f7eb-4750-432e-b30a-9598e355b48e.png" />
+  <img width="400" src="https://user-images.githubusercontent.com/29425781/152994917-3ec80152-d238-4628-83e4-6800e5e6d463.png" />
+  <a href="https://github.com/hellodeborahuk/react-weather-app">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=hellodeborahuk&repo=react-weather-app&theme=default_repocard" />
+</a>
+<a href="https://github.com/hellodeborahuk/dosha-quiz">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=hellodeborahuk&repo=dosha-quiz&theme=default_repocard" />
+</a>
+</p>
 
 ## Recent articles on Hashnode
 
