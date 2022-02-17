@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Debbie ✨</h1>
 
-- 🧘 Currently working on a [yoga website](https://github.com/hellodeborahuk/yoga-site) with Next.js and Firebase and [phonics sounds](https://github.com/hellodeborahuk/phonics-sounds) with React.
+- 🧘 Currently working on a [yoga website](https://github.com/hellodeborahuk/yoga-site) with Next.js and [phonics sounds](https://github.com/hellodeborahuk/phonics-sounds) with React.
 - 🧘🏻‍♀️ I love yoga, crafting and baking.
 - 📫 You can connect with me on [Twitter](https://www.twitter.com/debbie_digital) and [LinkedIn](https://www.linkedin.com/in/debbiedann).
 
