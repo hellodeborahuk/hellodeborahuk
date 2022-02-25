@@ -23,20 +23,20 @@
    <br/>
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/29425781/153005126-053cd5c4-fed8-448c-8a02-6e32348e6b4b.png" />
-  <img width="400" src="https://user-images.githubusercontent.com/29425781/152995122-712315ad-9b4f-4c4a-b0d7-ab528af10790.png">
+  <img width="400" src="https://user-images.githubusercontent.com/29425781/155540581-90c66b69-290d-49df-abc9-429ab509513d.gif" />
     <a href="https://github.com/hellodeborahuk/coding-notebook">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=hellodeborahuk&repo=coding-notebook&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
 </a>
+  <a href="https://github.com/hellodeborahuk/buzzphonics">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=hellodeborahuk&repo=buzzphonics&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
+</a>
+  <img width="400" src="https://user-images.githubusercontent.com/29425781/152995122-712315ad-9b4f-4c4a-b0d7-ab528af10790.png">
+  <img width="400" src="https://user-images.githubusercontent.com/29425781/153005390-b948f7eb-4750-432e-b30a-9598e355b48e.png" />
   <a href="https://github.com/hellodeborahuk/yoga-site">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=hellodeborahuk&repo=yoga-site&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
 </a>
-  <img width="400" src="https://user-images.githubusercontent.com/29425781/153005390-b948f7eb-4750-432e-b30a-9598e355b48e.png" />
-  <img width="400" src="https://github.com/hellodeborahuk/dosha-quiz/blob/main/public/dosha-quiz.png?raw=true" />
-  <a href="https://github.com/hellodeborahuk/react-weather-app">
+<a href="https://github.com/hellodeborahuk/react-weather-app">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=hellodeborahuk&repo=react-weather-app&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
-</a>
-<a href="https://github.com/hellodeborahuk/dosha-quiz">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=hellodeborahuk&repo=dosha-quiz&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
 </a>
 </p>
 
