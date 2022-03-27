@@ -48,18 +48,6 @@
 - [Six reasons why hiring part-timers is good for business](https://debbiedanndigital.hashnode.dev/six-reasons-why-hiring-part-timers-is-good-for-business)
 - [My Web Developer Journey So Far](https://debbiedanndigital.hashnode.dev/my-web-developer-journey-so-far)
 <!-- BLOG-POST-LIST:END -->
-  
-    
-<details>
-	<summary> My GitHub Stats</summary>
-<br>
-<p align="center">
-<a href="https://github.com/hellodeborahuk">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hellodeborahuk&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hellodeborahuk&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
-</a>
-</p>
-</details>
 
 <!---
 hellodeborahuk/hellodeborahuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
