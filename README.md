@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Debbie<img src="https://raw.githubusercontent.com/danndigital/debbie-portfolio-2021/28bef52c5fec2ddbbcd1462246f081213cec2582/public/images/sparkle.svg" width="35px" alt="sparkle" /></h1>
+![debbie dann header image](https://user-images.githubusercontent.com/29425781/169860856-ffc70a0d-42f4-4b55-90f0-d14ddc77ddf6.png)
+
 
 - 💻 Currently working on [buzzphonics app](https://github.com/hellodeborahuk/phonics-sounds) using React.
 - 📝 I am currently learning Next.js and animation.
