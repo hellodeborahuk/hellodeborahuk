@@ -2,7 +2,7 @@
 
 
 - 💻 Currently working on [buzzphonics app](https://github.com/hellodeborahuk/phonics-sounds) using React.
-- 📝 I am currently learning Next.js and animation.
+- 📝 I am currently learning Astro.
 - 🧘🏻‍♀️ I love yoga, crafting and baking.
 - 📫 You can connect with me on [Twitter](https://www.twitter.com/debbie_digital) and [LinkedIn](https://www.linkedin.com/in/debbiedann).
 
