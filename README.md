@@ -2,7 +2,7 @@
 
 
 - 💻 Currently working on [buzzphonics app](https://github.com/hellodeborahuk/phonics-sounds) using React.
-- 📝 I am currently learning WordPress theme development.
+- 📝 I am currently learning WordPress theme development and Nuxt/Strapi.
 - 🧘🏻‍♀️ I love yoga, exercise and reading.
 - 📫 You can connect with me on [Twitter](https://www.twitter.com/debbie_digital) and [LinkedIn](https://www.linkedin.com/in/debbiedann).
 
